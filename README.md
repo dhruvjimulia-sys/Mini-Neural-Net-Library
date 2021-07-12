@@ -10,7 +10,6 @@
 - Initial Biases
 - Activation Function
 - Loss Function
-- Iterations
 - Epochs
 
 ## Hyperparameters left to be implemented
