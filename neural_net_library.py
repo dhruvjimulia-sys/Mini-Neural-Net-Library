@@ -62,13 +62,13 @@ class NNet:
       curr_errors = prev_layer_errors
 
 
-nnet = NNet(2, 6, 1)
+nnet = NNet(2, 2, 1)
 # nnet.predict(np.linspace(0, 0.001, 100))
 
 inputs = [[0, 0], [0, 1], [1, 0], [1, 1]]
 outputs = [[1], [0], [0], [0]]
 
-for i in range(250):
+for i in range(50):
   index = random.randint(0, 3)
   nnet.fit(inputs[index], outputs[index])
   # nnet.fit([0, 0], [0])
