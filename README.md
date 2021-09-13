@@ -17,4 +17,4 @@
 - Batches
 - More Loss Functions
 - More Activation Functions
-- Reglarization
+- Regularization
