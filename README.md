@@ -41,15 +41,15 @@ You can now call the following functions on the neural network object `nnet`:
 
 ## List of hyperparameters TODO
 
-[x] Learning Rate \
-[x] Architecture \
-[x] Epochs \
-[ ] More Ways to Initialize Weights \
-[ ] More Ways to Initialize Biases \
-[ ] More Activation Functions \
-[ ] More Loss Functions \
-[ ] Batches \
-[ ] Regularization
+* [x] Learning Rate
+* [x] Architecture
+* [x] Epochs
+* [ ] More Ways to Initialize Weights
+* [ ] More Ways to Initialize Biases
+* [ ] More Activation Functions
+* [ ] More Loss Functions
+* [ ] Batches
+* [ ] Regularization
 
 ## Credits
 The neural network was implemented using the algorithm in the following book:
