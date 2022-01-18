@@ -8,7 +8,7 @@ https://www.python.org/downloads/
 
 Note: This library was created using Python 3.8.10
 
-After installing Python, you also need to install NumPy in the virtual environment or `pip install numpy`
+After installing Python, you also need to install NumPy in the virtual environment using the command `pip install numpy`
 
 ## Getting Started
 The usage of this library can be demonstrated in the `main.py` file, where the neural network library is used to solve the XOR problem. In order to run `main.py`, you can execute the following command in the project directory:
